@@ -3,33 +3,33 @@
 ## Participant Details
 
 **Full Name:**  
-<!-- Sudhindra M Acharya -->
+ Sudhindra M Acharya 
 
 **GitHub Username:**  
-<!-- AcharyaSudhindra -->
+ AcharyaSudhindra 
 
 **Team Name:**  
-<!-- QuantumApex -->
+ QuantumApex
 
 **College/University:**  
-<!-- Bangalore Institute of Technology -->
+ Bangalore Institute of Technology 
 
 ---
 
 ## Project Details
 
 **Project Title:**  
-<!-- LogicAgent -->
+ LogicAgent
 
 **Project Description:**  
-<!-- LogicAgent AI is an autonomous, LLM-powered hardware engineering agent. It writes Verilog code, simulates it using a built-in, zero-dependency Python simulator, and verifies the resulting waveforms. If the logic fails, the AI analyzes the exact timing errors and self-corrects the code in a continuous loop until the circuit is perfect.
+ LogicAgent AI is an autonomous, LLM-powered hardware engineering agent. It writes Verilog code, simulates it using a built-in, zero-dependency Python simulator, and verifies the resulting waveforms. If the logic fails, the AI analyzes the exact timing errors and self-corrects the code in a continuous loop until the circuit is perfect.
 
 The problem it solves: Hardware verification is notoriously slow, typically requiring engineers to write boilerplate testbenches, run them through heavy, expensive EDA tools (like Vivado or ModelSim), and manually scrub through thousands of waveform clock cycles by eye to find timing bugs.
 
-Why it matters: It democratizes and radically accelerates RTL development. By replacing heavy EDA tools with a lightweight Python backend and automating the entire debug-and-testbench loop, LogicAgent saves hardware engineers countless hours and transforms RTL verification into a seamless, AI-assisted workflow. -->
+Why it matters: It democratizes and radically accelerates RTL development. By replacing heavy EDA tools with a lightweight Python backend and automating the entire debug-and-testbench loop, LogicAgent saves hardware engineers countless hours and transforms RTL verification into a seamless, AI-assisted workflow.
 
 **Tech Stack Used:**  
-<!-- Frontend:
+ Frontend:
 
 Next.js
 React
@@ -49,16 +49,16 @@ AI & Verification Engine:
 
 Google Gemini API (GenAI SDK)
 Custom Python Verilog Simulator
-Icarus Verilog (iverilog) -->
+Icarus Verilog (iverilog) 
 
 **GitHub Repository Link:**  
-<!-- [Add your public project repository link](https://github.com/AcharyaSudhindra/LogicAgent) -->
+(https://github.com/AcharyaSudhindra/LogicAgent) 
 
 **Live Demo Link:**  
-<!-- [Deployed](https://logicagent.onrender.com) -->
+(https://logicagent.onrender.com)
 
 **Presentation / Demo Video Link:**  
-<!-- [demo](https://drive.google.com/file/d/1UKYr5dZAahAswqWnljfA_6CcOcFdyuAk/view?usp=sharing) -->
+(https://drive.google.com/file/d/1UKYr5dZAahAswqWnljfA_6CcOcFdyuAk/view?usp=sharing) 
 
 ---
 
